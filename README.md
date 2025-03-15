@@ -29,3 +29,4 @@ SR No   | Project | Author
 --- | --- | ---
 1 | [Hello World](https://github.com/itskashfur/Python_Projects/blob/main/QR%20Code%20Generator.py) | [Kashfur Rahman](https://github.com/itskashfur)
     
+
