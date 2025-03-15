@@ -4,7 +4,7 @@ import qrcode
 qr = qrcode.QRCode(version=3, box_size=20, border=10, error_correction=qrcode.constants.ERROR_CORRECT_H)
 
 # Define the data to be encoded in the QR code
-data = "https://medium.com/@rahulmallah785671/create-qr-code-by-using-python-2370d7bd9b8d"
+data = "https://medium.com/" #put link that you want to make a qr code 
 
 # Add the data to the QR code object
 qr.add_data(data)
