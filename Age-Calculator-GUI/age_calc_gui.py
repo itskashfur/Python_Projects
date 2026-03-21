@@ -9,8 +9,6 @@ root.title('Age Calculator')
 statement = Label(root)
 
 # defining the function for calculating age
-
-
 def ageCalc():
     global statement
     statement.destroy()
@@ -22,7 +20,6 @@ def ageCalc():
         age -= 1
     statement = Label(text=f"{nameValue.get()}'s age is {age}.")
     statement.grid(row=6, column=1, pady=15)
-
 
 # creating a label for person's name to display
 l1 = Label(text="Name: ")
