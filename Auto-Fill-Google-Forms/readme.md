@@ -27,10 +27,8 @@ webdriver.Firefox(executable_path=
 ```
 ### working
 1. You can add or delete the records in .csv file.
-
 2. Intially the number of responses in the google-form will be null(no-entries):
  screenshot is attached below:
-
 3. After ruuning the script, the bot will automatically take the records from .csv file and it will will the form.
 
 Created by [Instagram](https://www.instagram.com/itskashfur)
