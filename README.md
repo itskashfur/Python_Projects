@@ -28,5 +28,5 @@ A collection of simple python mini projects to enhance your Python skills.
 SR No   | Project | Author  
 --- | --- | ---
 1 | [Hello World](https://github.com/itskashfur/Python_Projects/blob/main/QR%20Code%20Generator.py) | [Kashfur Rahman](https://github.com/itskashfur)
-1 | [Hello](https://github.com/itskashfur/Python_Projects/blob/main/QR%20Code%20Generator.py) | [Kashfur Rahman](https://github.com/itskashfur)
+1 | [Image Watermark](https://github.com/itskashfur/Python_Projects/tree/main/Image_watermark) | [Kashfur Rahman](https://github.com/itskashfur)
     
