@@ -60,5 +60,5 @@
 <hr>
 
 <p align="center">
-  <i>❤️Created by <a href="https://github.com/itskashfur">Kashfur Rahman</a></i>
+  <i>❤️ Created by <a href="https://github.com/itskashfur">Kashfur Rahman</a></i>
 </p>
