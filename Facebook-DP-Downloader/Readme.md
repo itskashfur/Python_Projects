@@ -32,9 +32,15 @@
 
 ---
 
-## 🛠️ Quick Start
+## 🛠️ Quick Start & Usage
 
-### 1. Prerequisites
-Make sure you have Python installed on your system. Install the required dependencies using:
+Follow these simple steps to set up the repository and start downloading profile pictures:
+
+### 1. Installation & Environment Setup
+Clone this repository or download the project files, navigate to the folder, and install the required dependencies:
 ```bash
+# Clone the repository (or navigate to your local folder)
+cd Facebook-DP-Downloader
+
+# Install required dependencies
 pip install -r requirements.txt
