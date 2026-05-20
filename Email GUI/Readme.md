@@ -1,32 +1,26 @@
+# 📬 Email GUI & Stock Volume Selector
 
+A dual-purpose Python utility designed to easily dispatch emails via a graphical user interface and track stock fluctuations based on volume changes.
 
-## Email GUI Functionalities : 🚀
+---
 
-- **To send email the less security option of sender's email must be turned on.**
-- Enter all the details like sender's email, password, Recipient's Email and message.
-- The script logs into the gmail account and then sends the message.
+## 🚀 Email GUI Functionalities
 
-## Select Stocks by volume Increase Instructions: 👨🏻‍💻
+> ⚠️ **Important:** To send emails successfully, you must turn on the **"Less Secure App Access"** setting or generate an **App Password** within your sender email security settings.
 
-### Step 1:
+* **User-Friendly Setup:** Simply input the **Sender's Email**, **Password**, **Recipient's Email**, and your **Message**.
+* **Automated Dispatch:** The script securely logs into the Gmail server and handles the delivery automatically.
 
-    Open Termnial 💻
+---
 
-### Step 2:
+## 👨🏻‍💻 Select Stocks by Volume Increase
 
-    Locate to the directory where python file is located 📂
+Follow these quick steps to run the stock selection utility:
 
-### Step 3:
+### 1️⃣ Open Terminal 💻
+Launch your terminal or command prompt interface.
 
-    Run the command: python script.py/python3 script.py 🧐
-
-### Step 4:
-
-    Sit back and Relax. Let the Script do the Job. ☕
-
-### Requirements
-
-- smtplib
-- tkinter
-
-
+### 2️⃣ Navigate to the Directory 📂
+Change your directory to the folder where the Python script is stored:
+```bash
+cd path/to/your/folder
