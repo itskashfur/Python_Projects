@@ -56,3 +56,20 @@ Python_Projects/
 ├── Movie Information Scraper/
 ├── Python-Memo-App/
 └── Whatsapp_Bot/
+``` 
+| SR No. | 🛠️ Project Name | 👤 Author |
+| :---: | :--- | :--- |
+| **1** | [Hello World](Hello) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **2** | [Image Watermark](Image_watermark) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **3** | [Automate Facebook Bot](Automate%20Facebook%20bot) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **4** | [Attachment Downloader](Attachment_Downloader) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **5** | [Age Calculator](Age-Calculator-GUI) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **6** | [AWS Automation Script](AWS%20Automation%20Script%20for%20AWS%20endorsement%20management) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **7** | [Automatic Certificate Generator](Automatic%20Certificate%20Generator) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **8** | [Bubble Shooter Game](Bubble%20Shooter%20Game) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **9** | [Calendar GUI](Calendar%20GUI) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **10** | [Chrome Automation](Chrome-Automation) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **11** | [Currency Converter](Currency_converter) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **12** | [Digital Clock](Digital_clock) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **13** | [Movie Information Scraper](Movie%20Information%20Scraper) | [Kashfur Rahman](https://github.com/itskashfur) |
+| **14** | [WhatsApp Bot](Whatsapp_Bot) | [Kashfur Rahman](https://github.com/itskashfur) |
