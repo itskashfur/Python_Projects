@@ -1,0 +1,8 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytest
+  - flake8
+  - # Add any other packages your project needs here
