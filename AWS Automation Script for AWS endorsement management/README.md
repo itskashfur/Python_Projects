@@ -35,10 +35,11 @@ Before running the script, ensure you have the following installed and configure
    pip install -r requirements.txt
    ```
    (Replace main.py with the actual name of your primary script file if it differs)
-
-📂 Project Structure:
-```Plaintext:
+## 📂 Project Structure:<br>
+Plaintext:
+```
 ├── README.md          # Project documentation
 ├── main.py            # Primary automation execution script
 ├── utils/             # Helper modules and AWS API wrappers
 └── requirements.txt   # Python dependencies
+```
