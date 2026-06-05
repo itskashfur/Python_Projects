@@ -47,12 +47,19 @@ Plaintext:
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to improve the script, add new automation capabilities, or fix bugs:
 
-1. Fork the repository.
+   1. Fork the repository.
 
-2. Create a new branch (```git checkout -b feature-branch```).
+   2. Create a new branch (```git checkout -b feature-branch```).
 
-3. Commit your changes (```git commit -m 'Add some feature'```).
+   3. Commit your changes (```git commit -m 'Add some feature'```).
 
-4. Push to the branch (```git push origin feature-branch```).
+   4. Push to the branch (```git push origin feature-branch```).
 
-5. Open a Pull Request.
+   5. Open a Pull Request.
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+```
+### 💡 Tip for updating it on GitHub:
+Since your project files aren't fully visible in the screenshot, make sure to replace placeholder filenames like `main.py` with your actual Python script's name before clicking **Commit changes...**!
+```
