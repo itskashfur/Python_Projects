@@ -29,3 +29,16 @@ Before running the script, ensure you have the following installed and configure
    ```bash
    git clone [https://github.com/itskashfur/Python_Projects.git](https://github.com/itskashfur/Python_Projects.git)
    cd "Python_Projects/AWS Automation Script for AWS endorsement management"
+
+2. Install the required dependancies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   (Replace main.py with the actual name of your primary script file if it differs)
+
+📂 Project Structure:
+```Plaintext:
+├── README.md          # Project documentation
+├── main.py            # Primary automation execution script
+├── utils/             # Helper modules and AWS API wrappers
+└── requirements.txt   # Python dependencies
