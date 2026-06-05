@@ -43,3 +43,16 @@ Plaintext:
 ├── utils/             # Helper modules and AWS API wrappers
 └── requirements.txt   # Python dependencies
 ```
+
+## 🤝 Contributing
+Contributions are welcome! If you'd like to improve the script, add new automation capabilities, or fix bugs:
+
+1. Fork the repository.
+
+2. Create a new branch (```git checkout -b feature-branch```).
+
+3. Commit your changes (```git commit -m 'Add some feature'```).
+
+4. Push to the branch (```git push origin feature-branch```).
+
+5. Open a Pull Request.
